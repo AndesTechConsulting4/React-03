@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <title> 1st React App </title>
+    <meta charset="utf-8">
+    <script src="hello.js"> </script>
+</head>   
+<body>
+
+<script >
+'use strict'
+const logger = Hello("Salute!!");
+logger.logGreets();
+</script>
+
+<script crossorigin type='module'>
+import {Greets as MyGreets, g1, g2, evalG1} from '/Greets.js';
+import * as MyModule from '/Greets.js';
+
+console.log(MyModule.Greets);
+
+//import {g1,g2} from '/Greets.js';
+
+var Greets = {};
+
+//g1 = "21312";
+
+console.log(g1,g2);
+evalG1("Салют!")
+console.log(g1,g2);
+
+console.log(MyGreets);
+
+const hello = new MyGreets("Hi","And");
+console.log(hello.sayGreets());
+
+</script>    
+
+</body>
+</html>

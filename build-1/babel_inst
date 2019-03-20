@@ -1,0 +1,4 @@
+npm i @babel/core @babel/cli 
+@babel/preset-env @babel/preset-react -g --save-dev
+
+babel .\src\*.js --out-dir=.\src2 --presets=@babel/react

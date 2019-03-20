@@ -1,0 +1,25 @@
+NAME                      | DESCRIPTION          | AUTHOR          | DATE       | VERSION  | KEYWORDS
+Babel                     | Babel puts a soft…   | =lucaswoj       | 2011-06-30 | 0.0.1    |         
+babel-core                | Babel compiler core. | =hzoo…          | 2018-04-27 | 6.26.3   | 6to5 babel classes const es6 harmony let modules transpile transpiler var babel-core compiler
+babel-runtime             | babel selfContained… | =hzoo…          | 2017-08-16 | 6.26.0   | 
+babel-polyfill            | Provides polyfills…  | =hzoo…          | 2017-08-16 | 6.26.0   | 
+@babel/preset-env         | A Babel preset for…  | =danez…         | 2019-03-19 | 7.4.1    | 
+babel-preset-react        | Babel preset for…    | =hzoo…          | 2017-04-07 | 6.24.1   | 
+@babel/traverse           | The Babel Traverse…  | =danez…         | 2019-03-19 | 7.4.0    | 
+babel-types               | Babel Types is a…    | =hzoo…          | 2017-08-16 | 6.26.0   | 
+babel-template            | Generate an AST…     | =hzoo…          | 2017-08-16 | 6.26.0   | 
+babel-traverse            | The Babel Traverse…  | =hzoo…          | 2017-08-16 | 6.26.0   | 
+babel-generator           | Turns an AST into…   | =hzoo…          | 2018-02-03 | 6.26.1   | 
+babel-register            | babel require hook   | =hzoo…          | 2017-08-16 | 6.26.0   | 
+babel-preset-env          | A Babel preset for…  | =hzoo…          | 2018-05-10 | 1.7.0    | 
+babel-messages            | Collection of debug… | =hzoo…          | 2017-02-13 | 6.23.0   | 
+babel-plugin-transform-ru | Externalise…         | =hzoo…          | 2017-02-13 | 6.23.0   | babel-plugin
+ntime                     |                      |                 |            |          |             
+babel-helpers             | Collection of…       | =hzoo…          | 2017-04-07 | 6.24.1   | 
+babel-code-frame          | Generate errors…     | =hzoo…          | 2017-08-16 | 6.26.0   | 
+@babel/plugin-proposal-js | Escape U+2028 LINE…  | =danez…         | 2018-12-03 | 7.2.0    | babel-plugin
+on-strings                |                      |                 |            |          |             
+babel-plugin-transform-ob | Compile object rest… | =hzoo…          | 2017-08-16 | 6.26.0   | babel-plugin
+ject-rest-spread          |                      |                 |            |          |             
+babel-plugin-transform-cl | This plugin…         | =hzoo…          | 2017-04-07 | 6.24.1   | babel-plugin
+ass-properties            |                      |                 |            |          |             
